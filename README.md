@@ -8,6 +8,12 @@ This project provides a reusable and customizable checkbox list component built 
 
 ---
 
+## 🚀 Live Demo
+
+👉 [Click here to view the live project](https://piyushgoyal02.github.io/First_Task)
+
+---
+
 ## 🚀 Features
 
 - ✅ Select/deselect individual items
