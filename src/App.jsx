@@ -4,7 +4,12 @@ import './App.css'
 function App (){
   return (
     <div>
-      <h1 className='task'>Task</h1>
+
+      {/* main box */}
+      <div className='main-box'>
+        
+        
+      </div>
     </div>
   )
 }
