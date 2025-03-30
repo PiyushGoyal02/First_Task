@@ -31,3 +31,65 @@ body {
   border: 1px solid black;
 }
 
+.inside-contact-box {
+  width: 370px;
+  height: 326px;
+  border-radius: 6px;
+  border: 1px solid black;
+  padding: 10px;
+}
+
+.allpages-checkbox{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.checkbox{
+  width: 23px;
+  height: 23px;
+  top: 6.5px;
+  left: 6px;
+  border-radius: 6px;
+}
+
+.allpages-text{
+  display: flex;
+  align-items: center;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 130%;
+  width: 370px;
+  height: 42px;
+}
+
+.HR-tag{
+  color: #CDCDCD;    
+  width: 340px;
+  top: 10px;
+  right: 15px;
+  bottom: 10px;
+  left: 15px;
+}
+
+.Pages-section{
+  overflow-y: auto;
+}
+
+.button {
+  padding: 10px 20px;
+}
+
+
+.Done-button{
+  border-style: none;
+  background-color: #FFCE22;
+  width: 340px;
+  height: 40px;
+  border-radius: 4px;
+  color: #1F2128;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 130%;
+}
