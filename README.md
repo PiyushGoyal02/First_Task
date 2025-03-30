@@ -43,7 +43,7 @@ Server should be available on http://localhost:5173/
 ---
 📸 Screenshots
 
-![Screenshot](./screenshot.png)
+![Screenshot](./images/screenshot.png)
 
 ---
 Thankyou, I look forward to hearing from you.
